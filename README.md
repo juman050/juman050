@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Juman Muhammad, an Experienced web developer with a demonstrated history of working in the information technology and services industry.
+Skilled in - HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, MySQL, Laravel, Codeigniter, WordPress Theme Development, WooCommerce, Shopify, Ajax
 
 <!--
 **juman050/juman050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
